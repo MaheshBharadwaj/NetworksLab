@@ -5,3 +5,4 @@
  - [Ex 02 - Simple Client Server and Echo server](./Assignment-02/)
  - [Ex 03 - Multi Client using TCP](./Assignment-03/)
  - [Ex 04 - File Transfer using TCP](./Assignment-04/)
+ - [Ex 05 - Domain Name Service using TCP](./Assignment-05)
